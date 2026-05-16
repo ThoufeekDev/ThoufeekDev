@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋 I'm Thoufeek</h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Thoufeek" alt="Typing SVG" /></a></h1>
 
 ###
 
